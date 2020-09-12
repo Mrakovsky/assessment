@@ -1,0 +1,17 @@
+body {
+    font-family:'Times New Roman', Times, serif;
+    background-color: #04a6eb;
+    color: white;
+    width: 500px;                  /*text-align: center;で中央揃え*/
+    margin-right: auto;
+    margin-left: auto;
+}
+button{
+    padding: 5px 20px; 
+    color: white;            /*マージンとの違いは余白が枠内　枠外につくかの違い*/
+    background-color: #337ab7;
+    border-style: none;
+}
+input{
+    height: 24px;
+}
