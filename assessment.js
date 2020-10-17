@@ -33,7 +33,7 @@ assessmentButton.onclick = () => {
   paragraph.innerText = result;
   resultDivided.appendChild(paragraph);
 
-  // TODO ツイートエリアの作成
+  // ツイートエリアの作成
   removeAllChildren(tweetDivided);
   const a = document.createElement('a')
   const href = 
